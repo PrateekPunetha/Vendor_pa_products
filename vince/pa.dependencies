@@ -23,10 +23,18 @@
         "target_path":  "device/qcom/common",
         "revision":     "quartz"
     },
-    {   "remote":       "aospa",
+    {
+        "remote":       "aospa",
         "repository":   "AOSPA/android_hardware_qcom_media",
         "target_path":  "hardware/qcom/media",
         "revision":     "quartz-89xx"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "AOSPA/android_packages_apps_Bluetooth",
+        "target_path":  "packages/apps/Bluetooth",
+        "revision":     "quartz-dev"
+
     }
 ]
 
