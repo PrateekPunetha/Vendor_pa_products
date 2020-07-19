@@ -38,7 +38,7 @@
     },
     {
         "remote":       "aospa",
-        "repository" :   "AOSPA/android_frameworks_opt_net_wifi",
+        "repository" :  "AOSPA/android_frameworks_opt_net_wifi",
         "target_path":  "frameworks_opt_net_wifi",
         "revision":     "quartz-dev"
 
